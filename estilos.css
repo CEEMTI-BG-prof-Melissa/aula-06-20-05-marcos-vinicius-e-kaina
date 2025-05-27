@@ -1,9 +1,9 @@
 div p{
-  color: blue;
+  color: red;
 }
 
  div h2 > p{
-  background-color:Lightcoral;
+  background-color:light grey;
 }
 
 h2+p{
